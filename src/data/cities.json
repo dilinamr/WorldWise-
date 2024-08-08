@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "0920",
+      "cityName": "Kollam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-07T19:36:46.653Z",
+      "notes": "fgfhjn",
+      "position": {
+        "lat": 8.809082353052137,
+        "lng": 76.75048828125001
+      }
+    },
+    {
+      "id": "892f",
+      "cityName": "Lehri",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-08-07T20:56:29.477Z",
+      "notes": "ghjb",
+      "position": {
+        "lat": 32.84267363195431,
+        "lng": -5.449218750000001
+      }
+    }
+  ]
+}

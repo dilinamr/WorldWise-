@@ -1,0 +1,49 @@
+.product {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  background-color: var(--color-dark--1);
+  min-height: calc(100vh - 5rem);
+}
+
+.product section {
+  width: clamp(80rem, 80%, 90rem);
+  margin: 6rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 7rem;
+  align-items: center;
+}
+
+/* .product img {
+  width: 100%;
+} */
+
+
+.pi {
+  /* Styling for the image */
+  max-width: 100%;
+  /* Ensures the image is responsive */
+  height: auto;
+  /* Maintains the aspect ratio */
+  border-radius: 8px;
+  /* Adds rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  /* Adds a subtle shadow */
+  margin-bottom: 20px;
+  /* Adds some space below the image */
+}
+
+.product h2 {
+  font-size: 4rem;
+  line-height: 1.2;
+  margin-bottom: 3rem;
+}
+
+.product p {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.product section a {
+  margin-top: 2rem;
+}
